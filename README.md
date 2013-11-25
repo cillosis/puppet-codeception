@@ -14,3 +14,4 @@ This will [install Codeception globally][codeception_global].
 
 ## Requirements
 The Codeception manifest requires that wget be installed.
+
